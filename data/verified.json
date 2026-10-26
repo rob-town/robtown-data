@@ -80,6 +80,16 @@
   "no": 10086,
   "hood": "green"
  },
+ "0x839271ef8feba0466cea5cfae4daa991c3435e91": {
+  "handle": "edsama_lens",
+  "name": "edsama_lens",
+  "verifiedAt": 1793047000,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 65,
+  "hood": "green"
+ },
  "0x85137b448b9d44a775cb7acc3ccae01c5b1c048b": {
   "handle": "sirvius_",
   "name": "sirvius_",
