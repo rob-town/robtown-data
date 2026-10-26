@@ -100,5 +100,15 @@
   "band": true,
   "no": 1,
   "hood": "green"
+ },
+ "0xf066597b11373b67f6f74cec58319121f11779e5": {
+  "handle": "iambshk",
+  "name": "iambshk",
+  "verifiedAt": 1793045953,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10314,
+  "hood": "green"
  }
 }
