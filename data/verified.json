@@ -191,6 +191,16 @@
   "no": 1,
   "hood": "green"
  },
+ "0xea0872c5ec5fc7759c40aca66a70f69ea3dd8566": {
+  "handle": "hibank36",
+  "name": "hibank36",
+  "verifiedAt": 1793051758,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 8066,
+  "hood": "green"
+ },
  "0xead46c04e27d56a89a5bcfaac08b7f5ba802cd66": {
   "handle": "saam_d3v",
   "name": "saam_d3v",
