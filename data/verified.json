@@ -69,6 +69,17 @@
   "no": 10350,
   "hood": "green"
  },
+ "0x38aa906af4530d35e3b93fd6454296905c0a0c28": {
+  "handle": "harbox11",
+  "name": "harbox11",
+  "verifiedAt": 1793052830,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 292,
+  "hood": "green",
+  "ref": "0xee63272a8c812666557c8d85c47816c534999c92"
+ },
  "0x3fd9e7989678d7dbaf0dadcfa3bbe746e46e2866": {
   "handle": "jungleuser_eth",
   "name": "jungleuser_eth",
