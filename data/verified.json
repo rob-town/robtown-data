@@ -50,6 +50,17 @@
   "no": 10086,
   "hood": "green"
  },
+ "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
+  "handle": "eam__sha",
+  "name": "eam__sha",
+  "verifiedAt": 1793045542,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 7524,
+  "hood": "green",
+  "ref": "0xd1e41cde8fe847f239a6563676b812947e8f133c"
+ },
  "0xde77723fe530d3b01a960b15c4bbfd35cad5b610": {
   "handle": "therealmrb123",
   "name": "therealmrb123",
