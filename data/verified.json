@@ -30,6 +30,16 @@
   "hood": "green",
   "ref": "0x41afabeba7d10bfe105b9ae31efe7913337a8674"
  },
+ "0x0d843265bd1ca8b4b2632915efbc3f1e845e67c4": {
+  "handle": "8th_tengoku",
+  "name": "8th_tengoku",
+  "verifiedAt": 1793115367,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10611,
+  "hood": "green"
+ },
  "0x1364f10215eeed959b3509b9c2b73200180739a9": {
   "handle": "xpankeca",
   "name": "xpankeca",
