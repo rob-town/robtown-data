@@ -288,6 +288,17 @@
   "no": 10072,
   "hood": "green"
  },
+ "0x545c292b28689ef327a52a7fdab4820f0c980b1f": {
+  "handle": "sansanyzz01",
+  "name": "sansanyzz01",
+  "verifiedAt": 1793121824,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 3915,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x5acca936dab843345dc4c54fbc0ca453de7a28a8": {
   "handle": "francom84854588",
   "name": "francom84854588",
