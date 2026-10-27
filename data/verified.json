@@ -304,6 +304,17 @@
   "hood": "green",
   "ref": "0xd1e41cde8fe847f239a6563676b812947e8f133c"
  },
+ "0xcd2446ded6481d0dc2f0c01c2e65f287862e3559": {
+  "handle": "yiopqghhgjgew31",
+  "name": "yiopqghhgjgew31",
+  "verifiedAt": 1793095067,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10473,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0xd0382fb41f9155397bd9fcb057bd033337d5fbbc": {
   "handle": "target100kd",
   "name": "target100kd",
