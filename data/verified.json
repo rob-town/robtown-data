@@ -575,6 +575,16 @@
   "hood": "green",
   "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
  },
+ "0xc5b2dbdf42bf0629b0186df4ed7e9f5a8ae20566": {
+  "handle": "0xshuby",
+  "name": "0xshuby",
+  "verifiedAt": 1793116227,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 4548,
+  "hood": "green"
+ },
  "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
   "handle": "eam__sha",
   "name": "eam__sha",
