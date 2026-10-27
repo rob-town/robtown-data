@@ -598,6 +598,17 @@
   "no": 2911,
   "hood": "green"
  },
+ "0xdcae2f5cf91748ce6ad0640312c17f171bdabafe": {
+  "handle": "gexars",
+  "name": "gexars",
+  "verifiedAt": 1793114745,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 3527,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0xde77723fe530d3b01a960b15c4bbfd35cad5b610": {
   "handle": "therealmrb123",
   "name": "therealmrb123",
