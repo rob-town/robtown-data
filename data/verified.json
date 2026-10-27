@@ -832,6 +832,17 @@
   "no": 10574,
   "hood": "green"
  },
+ "0xfd5a5faa97397f39d6602145d74a6400a20ca9c1": {
+  "handle": "junminmg",
+  "name": "junminmg",
+  "verifiedAt": 1793117183,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10618,
+  "hood": "green",
+  "ref": "0xffac3e951c28bf2cb8f9b7be12166cbd47fbdea5"
+ },
  "0xffac3e951c28bf2cb8f9b7be12166cbd47fbdea5": {
   "handle": "junmingren1",
   "name": "junmingren1",
