@@ -473,6 +473,17 @@
   "no": 10320,
   "hood": "green"
  },
+ "0x87fc326cc04fb01c20f698263239a6a7e740e7ff": {
+  "handle": "caleb_chan_",
+  "name": "caleb_chan_",
+  "verifiedAt": 1793119035,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10649,
+  "hood": "green",
+  "ref": "0x1072c393d4745a03b0d1acb48f1798b331de8bcc"
+ },
  "0x8b33c0884bd06287b76688f3eb7814496615627d": {
   "handle": "xuser42067",
   "name": "xuser42067",
