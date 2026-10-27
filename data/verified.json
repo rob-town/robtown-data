@@ -424,6 +424,17 @@
   "hood": "blue",
   "ref": "0xe82fe50757117289f0427e7229034a3eaa5da5c5"
  },
+ "0x74f474951710be2c58e8c2d7831b8e3e0a4b1bc3": {
+  "handle": "unemployeet",
+  "name": "unemployeet",
+  "verifiedAt": 1793124814,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10688,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x78af10e35c2edaf8b27738fbcf6b18b1e2381135": {
   "handle": "inju_gg",
   "name": "inju_gg",
