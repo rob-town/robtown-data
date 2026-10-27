@@ -409,6 +409,17 @@
   "no": 3099,
   "hood": "green"
  },
+ "0x91128e4d81e18e51f4d74b568f322360ffce263d": {
+  "handle": "childofrose_",
+  "name": "childofrose_",
+  "verifiedAt": 1793112763,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 1874,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x946237aba9a04684709c7cc9e68b793c87e556fc": {
   "handle": "notautumnnnnn",
   "name": "notautumnnnnn",
