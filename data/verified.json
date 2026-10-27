@@ -288,6 +288,17 @@
   "hood": "green",
   "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
  },
+ "0x62ac5059e382a44239f9d92f31ea19f83d5aaa34": {
+  "handle": "bons088",
+  "name": "bons088",
+  "verifiedAt": 1793113009,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 2971,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x6a643b81f193d8aa7e9c6bf5879c999f95027374": {
   "handle": "fantasyys_1",
   "name": "fantasyys_1",
