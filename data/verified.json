@@ -142,6 +142,17 @@
   "no": 10350,
   "hood": "green"
  },
+ "0x343e5d46dcf5501ed88aa3f20d6329c92cd6b4e5": {
+  "handle": "xsuckz",
+  "name": "xsuckz",
+  "verifiedAt": 1793114198,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10584,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x38aa906af4530d35e3b93fd6454296905c0a0c28": {
   "handle": "harbox11",
   "name": "harbox11",
