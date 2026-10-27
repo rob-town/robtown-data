@@ -111,6 +111,16 @@
   "hood": "green",
   "ref": "0xe0c18c32f0838d9c295d9cff433f2eff9deacc2c"
  },
+ "0x5bfedfc5f468d9ce0974356d486ea5ad974cfbd3": {
+  "handle": "l1near_exe",
+  "name": "l1near_exe",
+  "verifiedAt": 1793066363,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 5382,
+  "hood": "green"
+ },
  "0x6a643b81f193d8aa7e9c6bf5879c999f95027374": {
   "handle": "fantasyys_1",
   "name": "fantasyys_1",
