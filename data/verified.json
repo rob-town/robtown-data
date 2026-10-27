@@ -70,6 +70,17 @@
   "no": 374,
   "hood": "green"
  },
+ "0x2f182a2fc0dc7ef1dd8f2ca512fb83276de71272": {
+  "handle": "kamalangah",
+  "name": "kamalangah",
+  "verifiedAt": 1793100928,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10484,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0x32f4b9bf2b1a051221ab60cfa7075c1d6ea37a14": {
   "handle": "4limukidi",
   "name": "4limukidi",
