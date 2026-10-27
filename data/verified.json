@@ -402,6 +402,16 @@
   "no": 10086,
   "hood": "green"
  },
+ "0x81e639d52367dfb5da286884e9240a16135ec463": {
+  "handle": "crazy_infector",
+  "name": "crazy_infector",
+  "verifiedAt": 1793114908,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 1621,
+  "hood": "green"
+ },
  "0x839271ef8feba0466cea5cfae4daa991c3435e91": {
   "handle": "edsama_lens",
   "name": "edsama_lens",
