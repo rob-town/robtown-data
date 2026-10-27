@@ -236,6 +236,17 @@
   "no": 3248,
   "hood": "blue"
  },
+ "0x7226ce2385a04e03548c1098eb4ef3320e9ed038": {
+  "handle": "fakehamster_",
+  "name": "fakehamster_",
+  "verifiedAt": 1793105425,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 2039,
+  "hood": "blue",
+  "ref": "0xe82fe50757117289f0427e7229034a3eaa5da5c5"
+ },
  "0x78af10e35c2edaf8b27738fbcf6b18b1e2381135": {
   "handle": "inju_gg",
   "name": "inju_gg",
