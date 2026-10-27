@@ -262,6 +262,16 @@
   "hood": "green",
   "ref": "0xd1e41cde8fe847f239a6563676b812947e8f133c"
  },
+ "0xd0382fb41f9155397bd9fcb057bd033337d5fbbc": {
+  "handle": "target100kd",
+  "name": "target100kd",
+  "verifiedAt": 1793082241,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 1669,
+  "hood": "green"
+ },
  "0xd9315befd96275d0e6c28b37ff246cb3ea4f8211": {
   "handle": "comrade5moker",
   "name": "comrade5moker",
@@ -320,6 +330,16 @@
   "av": 3,
   "band": true,
   "no": 10314,
+  "hood": "green"
+ },
+ "0xffac3e951c28bf2cb8f9b7be12166cbd47fbdea5": {
+  "handle": "junmingren1",
+  "name": "junmingren1",
+  "verifiedAt": 1793082241,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 9523,
   "hood": "green"
  }
 }
