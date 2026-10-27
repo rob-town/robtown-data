@@ -293,6 +293,17 @@
   "no": 10306,
   "hood": "green"
  },
+ "0xbdc96228615c44130cecb2a2f5119b452166c490": {
+  "handle": "dannieleaalves",
+  "name": "dannieleaalves",
+  "verifiedAt": 1793096262,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10475,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
   "handle": "eam__sha",
   "name": "eam__sha",
