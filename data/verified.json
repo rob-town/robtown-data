@@ -268,6 +268,16 @@
   "no": 10072,
   "hood": "green"
  },
+ "0x5b97c814c1ca97798385fb68c0027d98bff59aba": {
+  "handle": "batt004",
+  "name": "batt004",
+  "verifiedAt": 1793115184,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 1142,
+  "hood": "green"
+ },
  "0x5bfedfc5f468d9ce0974356d486ea5ad974cfbd3": {
   "handle": "l1near_exe",
   "name": "l1near_exe",
