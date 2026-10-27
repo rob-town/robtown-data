@@ -252,6 +252,17 @@
   "no": 7494,
   "hood": "green"
  },
+ "0xad03f41fb6cc349be20d8d1e081fe81e009bf3a5": {
+  "handle": "s59780080",
+  "name": "s59780080",
+  "verifiedAt": 1793093536,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10471,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0xbb068c5af7b260f8123756fdef6b75647ca88837": {
   "handle": "haleykyubi",
   "name": "haleykyubi",
