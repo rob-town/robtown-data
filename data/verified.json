@@ -80,6 +80,17 @@
   "hood": "green",
   "ref": "0xee63272a8c812666557c8d85c47816c534999c92"
  },
+ "0x3bbf0d4eb7c7bda8408013fce07607091d8b47db": {
+  "handle": "kate_nellie",
+  "name": "kate_nellie",
+  "verifiedAt": 1793091448,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10470,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0x3decb76e8db290603dceb71658457a8e3bc9d389": {
   "handle": "zeyin233",
   "name": "zeyin233",
