@@ -990,6 +990,17 @@
   "no": 4548,
   "hood": "green"
  },
+ "0xc6a5119888b0214d83047dcf3ba2932c187ed4f3": {
+  "handle": "boulevard1823",
+  "name": "boulevard1823",
+  "verifiedAt": 1793206542,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 7593,
+  "hood": "green",
+  "ref": "0xb2b1dd1ed63db19a6fa3310718994135457e3405"
+ },
  "0xc8d022f96d37c3d455885c52e64c9cee6fce5d92": {
   "handle": "sapi_terbang15",
   "name": "sapi_terbang15",
