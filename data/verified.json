@@ -173,6 +173,17 @@
   "no": 7821,
   "hood": "green"
  },
+ "0x2208bda154a63b66d99d9f565f03db95db2672fa": {
+  "handle": "_wrldking04_",
+  "name": "_wrldking04_",
+  "verifiedAt": 1793217481,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10923,
+  "hood": "green",
+  "ref": "0x6b10edb72e90856b48a6ee43ece0d452473b58d3"
+ },
  "0x223f974eec7a8770561de76ec824f73f57aea476": {
   "handle": "martip07",
   "name": "martip07",
