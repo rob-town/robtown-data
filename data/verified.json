@@ -431,6 +431,17 @@
   "hood": "green",
   "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
  },
+ "0x5def5ded1b18f7dee41fb44def846eb1a2e9e147": {
+  "handle": "barzzki",
+  "name": "barzzki",
+  "verifiedAt": 1793167715,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 3806,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x5e081c1d3d8c02e906110f8f97d701f2c964f56b": {
   "handle": "wangderbao",
   "name": "wangderbao",
