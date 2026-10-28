@@ -508,6 +508,17 @@
   "hood": "green",
   "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
  },
+ "0x63d38fc5e0968c2b983635c462de66c5eee34db5": {
+  "handle": "hongkongindep",
+  "name": "hongkongindep",
+  "verifiedAt": 1793182014,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10842,
+  "hood": "green",
+  "ref": "0xa4d5e5d72afe379f694b417abbe294b1bc3f60b5"
+ },
  "0x6a643b81f193d8aa7e9c6bf5879c999f95027374": {
   "handle": "fantasyys_1",
   "name": "fantasyys_1",
