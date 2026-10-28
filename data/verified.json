@@ -172,6 +172,17 @@
   "hood": "green",
   "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
  },
+ "0x3275d9edade4d2b65dd9642f72def83b0ae151a8": {
+  "handle": "rikuma0201socc1",
+  "name": "rikuma0201socc1",
+  "verifiedAt": 1793152679,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10750,
+  "hood": "green",
+  "ref": "0x1072c393d4745a03b0d1acb48f1798b331de8bcc"
+ },
  "0x32f4b9bf2b1a051221ab60cfa7075c1d6ea37a14": {
   "handle": "4limukidi",
   "name": "4limukidi",
