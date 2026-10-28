@@ -673,6 +673,17 @@
   "no": 436,
   "hood": "green"
  },
+ "0x791cf56c0fda0a069caffdbe7319ca0d16e9c2f9": {
+  "handle": "jahdobelieve",
+  "name": "jahdobelieve",
+  "verifiedAt": 1793209570,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 9043,
+  "hood": "green",
+  "ref": "0x052a5078530dc682bb8526b23841e2322c1c47b2"
+ },
  "0x79411510315e819a36a731aa384c866a1dba2806": {
   "handle": "cryptoreem",
   "name": "cryptoreem",
