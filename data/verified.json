@@ -741,6 +741,16 @@
   "hood": "green",
   "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
  },
+ "0xc17fac2fcb44709951f7524f0080569debfa0021": {
+  "handle": "zakaram_0",
+  "name": "zakaram_0",
+  "verifiedAt": 1793151519,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10560,
+  "hood": "green"
+ },
  "0xc5b2dbdf42bf0629b0186df4ed7e9f5a8ae20566": {
   "handle": "0xshuby",
   "name": "0xshuby",
