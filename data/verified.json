@@ -484,6 +484,17 @@
   "no": 2167,
   "hood": "green"
  },
+ "0x569d4180a48586e2eb0a64f62881cbd48f03b198": {
+  "handle": "axedotid",
+  "name": "axedotid",
+  "verifiedAt": 1793214060,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10914,
+  "hood": "green",
+  "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
+ },
  "0x5acca936dab843345dc4c54fbc0ca453de7a28a8": {
   "handle": "francom84854588",
   "name": "francom84854588",
