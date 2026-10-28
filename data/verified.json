@@ -101,6 +101,17 @@
   "no": 8167,
   "hood": "green"
  },
+ "0x1f90b765f1579541bf0aa539116c0aa2844606c3": {
+  "handle": "luytle1802",
+  "name": "luytle1802",
+  "verifiedAt": 1793194005,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10869,
+  "hood": "green",
+  "ref": "0x23934e253c4f9c44f73a85b350c00a72e1d9c20b"
+ },
  "0x1feb52be24e4bc08815f342f7027a02cab0c5dd3": {
   "handle": "willow940903",
   "name": "willow940903",
