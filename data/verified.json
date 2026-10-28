@@ -246,6 +246,16 @@
   "hood": "green",
   "ref": "0x30f11df73595df6c8a1637933864419077aa7964"
  },
+ "0x35acae7a54e6a8879c3a105b24281b2e3e828140": {
+  "handle": "nads69",
+  "name": "nads69",
+  "verifiedAt": 1793194800,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 7355,
+  "hood": "green"
+ },
  "0x38aa906af4530d35e3b93fd6454296905c0a0c28": {
   "handle": "harbox11",
   "name": "harbox11",
