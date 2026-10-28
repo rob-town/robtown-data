@@ -899,6 +899,17 @@
   "no": 4548,
   "hood": "green"
  },
+ "0xc8d022f96d37c3d455885c52e64c9cee6fce5d92": {
+  "handle": "sapi_terbang15",
+  "name": "sapi_terbang15",
+  "verifiedAt": 1793190125,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 4128,
+  "hood": "green",
+  "ref": "0x9393b5d3f2b31438b91214164c59408bc80bebec"
+ },
  "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
   "handle": "eam__sha",
   "name": "eam__sha",
