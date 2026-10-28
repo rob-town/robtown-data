@@ -816,6 +816,17 @@
   "no": 9369,
   "hood": "green"
  },
+ "0xb2b67b2cd1da25ab8acbb0cee06c92324d88a6d0": {
+  "handle": "sam_in_web3",
+  "name": "sam_in_web3",
+  "verifiedAt": 1793187212,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 5542,
+  "hood": "green",
+  "ref": "0xd0382fb41f9155397bd9fcb057bd033337d5fbbc"
+ },
  "0xb9e116ca095de820f42bf3b53d1f8a4dcdb3bf69": {
   "handle": "mdlanftss",
   "name": "mdlanftss",
