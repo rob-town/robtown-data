@@ -224,6 +224,17 @@
   "hood": "green",
   "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
  },
+ "0x35140adf40f89b67908871ecc26b74913309d3a7": {
+  "handle": "tanhoang098",
+  "name": "tanhoang098",
+  "verifiedAt": 1793180423,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10774,
+  "hood": "green",
+  "ref": "0x30f11df73595df6c8a1637933864419077aa7964"
+ },
  "0x38aa906af4530d35e3b93fd6454296905c0a0c28": {
   "handle": "harbox11",
   "name": "harbox11",
