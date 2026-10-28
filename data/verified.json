@@ -308,6 +308,17 @@
   "no": 4495,
   "hood": "green"
  },
+ "0x455c08115e7b782eb9d99c84fa4990540386f484": {
+  "handle": "rimba_nara",
+  "name": "rimba_nara",
+  "verifiedAt": 1793171010,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 6987,
+  "hood": "green",
+  "ref": "0x69961778ccfc8fb557c4a8a97374f0cc2f5956a4"
+ },
  "0x474f86afb43a17cefcaf37576c4cbb11df9bdcb2": {
   "handle": "ferrunss",
   "name": "ferrunss",
