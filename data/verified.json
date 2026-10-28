@@ -1401,6 +1401,17 @@
   "hood": "green",
   "ref": "0xffac3e951c28bf2cb8f9b7be12166cbd47fbdea5"
  },
+ "0xfdb1bd681e7d4925b6ee3b18c0b828cc1857740f": {
+  "handle": "betlnal345",
+  "name": "betlnal345",
+  "verifiedAt": 1793209238,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 10334,
+  "hood": "green",
+  "ref": "0x038d6785cc9ba358b5604360adc0b9853c9358b6"
+ },
  "0xffac3e951c28bf2cb8f9b7be12166cbd47fbdea5": {
   "handle": "junmingren1",
   "name": "junmingren1",
