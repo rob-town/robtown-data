@@ -927,6 +927,16 @@
   "no": 10908,
   "hood": "green"
  },
+ "0x90f88239ec99cbe5c8fbd6065f1a2b7b2faebbfe": {
+  "handle": "nexus_os_app",
+  "name": "nexus_os_app",
+  "verifiedAt": 1793301421,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11003,
+  "hood": "green"
+ },
  "0x91128e4d81e18e51f4d74b568f322360ffce263d": {
   "handle": "childofrose_",
   "name": "childofrose_",
