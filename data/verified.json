@@ -214,6 +214,17 @@
   "no": 10979,
   "hood": "green"
  },
+ "0x25e8d91072e3547492a72e58f90c5234ef379b60": {
+  "handle": "mazi_onchain",
+  "name": "mazi_onchain",
+  "verifiedAt": 1793305171,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 7696,
+  "hood": "green",
+  "ref": "0x0f10fe16ee33acdc46bd16ac56a67ee58d699999"
+ },
  "0x2607392f3c1e53b0159585125406d81846f59542": {
   "handle": "benas_cereska",
   "name": "benas_cereska",
