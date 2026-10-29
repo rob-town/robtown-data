@@ -797,6 +797,16 @@
   "no": 792,
   "hood": "blue"
  },
+ "0x7a2e67629ef9f20b0473b076bacf6340f78b91c8": {
+  "handle": "0xfirestage",
+  "name": "0xfirestage",
+  "verifiedAt": 1793313365,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11012,
+  "hood": "green"
+ },
  "0x7a446277007e25630a35f28d980c73d060eeeb86": {
   "handle": "sicupdate",
   "name": "sicupdate",
