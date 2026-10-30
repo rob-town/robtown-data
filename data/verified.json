@@ -1124,6 +1124,16 @@
   "hood": "green",
   "ref": "0xd0382fb41f9155397bd9fcb057bd033337d5fbbc"
  },
+ "0xb42760f7b2a18ab506f1e784a834e1c06acb544b": {
+  "handle": "cryptocymol",
+  "name": "cryptocymol",
+  "verifiedAt": 1793375564,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 740,
+  "hood": "green"
+ },
  "0xb628a1358dde7257e8f8ba78df84072448eec9a7": {
   "handle": "lucifertw978",
   "name": "lucifertw978",
