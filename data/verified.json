@@ -1247,6 +1247,17 @@
   "hood": "green",
   "ref": "0x9393b5d3f2b31438b91214164c59408bc80bebec"
  },
+ "0xc9b23504ddea14367387259edd922bb261517346": {
+  "handle": "max_iiiiiiii",
+  "name": "max_iiiiiiii",
+  "verifiedAt": 1793366528,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11037,
+  "hood": "green",
+  "ref": "0x79f8d3f9f78701a9bd241204415b0525a7ea1f66"
+ },
  "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
   "handle": "eam__sha",
   "name": "eam__sha",
