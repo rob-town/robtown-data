@@ -1123,6 +1123,17 @@
   "no": 9369,
   "hood": "green"
  },
+ "0xae9d87746b0681dcb0288856ea534879a744d74b": {
+  "handle": "parhwm13816",
+  "name": "parhwm13816",
+  "verifiedAt": 1793398907,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11071,
+  "hood": "green",
+  "ref": "0x2839ec8c225c63ad4e94734da92a9087b708e66b"
+ },
  "0xb2b67b2cd1da25ab8acbb0cee06c92324d88a6d0": {
   "handle": "sam_in_web3",
   "name": "sam_in_web3",
