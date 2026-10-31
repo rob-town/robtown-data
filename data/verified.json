@@ -1584,6 +1584,17 @@
   "no": 2906,
   "hood": "green"
  },
+ "0xe7d7bfa761c7a8a9656762e461e55ae708f4c451": {
+  "handle": "clawtronvcx1",
+  "name": "clawtronvcx1",
+  "verifiedAt": 1793452721,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11065,
+  "hood": "green",
+  "ref": "0x67fb29728a1916a3918cb2c6691a5b8d26d29667"
+ },
  "0xe91cba7dac5668566694562b50d6d609965f5d6d": {
   "handle": "goldhairbag_",
   "name": "goldhairbag_",
