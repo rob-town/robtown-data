@@ -647,6 +647,16 @@
   "hood": "green",
   "ref": "0x946237aba9a04684709c7cc9e68b793c87e556fc"
  },
+ "0x5887f51380ec6902005ef3753801b94b8a83d305": {
+  "handle": "qrema",
+  "name": "qrema",
+  "verifiedAt": 1793574189,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11182,
+  "hood": "green"
+ },
  "0x5acca936dab843345dc4c54fbc0ca453de7a28a8": {
   "handle": "francom84854588",
   "name": "francom84854588",
