@@ -1463,6 +1463,16 @@
   "hood": "green",
   "ref": "0x79f8d3f9f78701a9bd241204415b0525a7ea1f66"
  },
+ "0xcb699cb3c1dc50a8969f594f08156559f68c163c": {
+  "handle": "ujowar_hd",
+  "name": "ujowar_hd",
+  "verifiedAt": 1793592511,
+  "tweetId": "0",
+  "av": 0,
+  "band": true,
+  "no": 11190,
+  "hood": "green"
+ },
  "0xcc667852d213d514783229a119a03cf7efbd3d4a": {
   "handle": "eam__sha",
   "name": "eam__sha",
